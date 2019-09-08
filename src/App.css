@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  font-size: 21px;
+  padding: 5px 20px;
+  border: 0;
+  background-color: deepskyblue;
+  color: #f3f3f3;
+  border-radius: 3px;
+  transition: all 250ms ease-in-out;
+  cursor: pointer;
+  /*&:hover{*/
+  /*background-color: aqua;}*/
+  /* &:focus{*/
+  /*outline: none;*/
+  /*  }*/
+}
